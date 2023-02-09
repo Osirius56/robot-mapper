@@ -5,6 +5,9 @@ Il permet de :
  * Décomposer les fichiers de suite et de keywords en objets exportable au format json.
  * Lister tout les Cas de test rédigés dans une arborescence
  * Comptabiliser les nombre de cas de tests par Tag (Couverture de ticket Jira/Xray par exemple)
+ * Renommer massivement des cas de test depuis un fichier CSV (sur une nouvelle branche git dédiée)
+ 
+
 
 ## Aide en ligne
 ```
